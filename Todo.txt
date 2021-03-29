@@ -1,0 +1,102 @@
+https://www.jcchouinard.com/google-analytics-api-using-python/
+https://app.slack.com/client/T0Q0J6DM0/D01RNKK54LX
+https://www.youtube.com/watch?v=2XHBY6BzbQQ
+https://towardsdatascience.com/time-series-essentials-fe6727ab6a94
+https://machinelearningmastery.com/time-series-seasonality-with-python/
+https://github.com/ritvikmath/Time-Series-Analysis/blob/master/SARIMA%20Model.ipynb
+
+3 contacts...
+1. Agnieszka Nowak @ Sigmoidal
+2. Samarth Inani @ Ranker
+3. Janet Benjamin @ BDM
+
+outreach templates
+Hi [name], 
+
+My name is Spencer Holley and I just graduated from the Flatiron Data 
+Science Program. I recently saw that [company] had a job opening for an 
+Entry Level Data Scientist for [reason for hiring]. I know 
+I could contribute to [company's] goal of [key goal] by leveraging my 
+skills in Data Analysis and Machine Learning [or other skills listed]. Could we have a chat for me 
+to learn more about [the role role at company]? it's best for me to chat on a weekday after
+[day time timezone]. 
+
+Best, Spencer
+
+Company based...
+
+Hi [name], 
+
+[complement]
+I just graduated from the Flatiron Data Science Program and i'm 
+looking to apply my skills in the [industry] space and [company]
+stood out to me.
+I see that you're [position] there . Could we have a 15-20 minute chat 
+about [company] and see if my skills could be valuable
+? How does [day time timezone] sound? 
+
+Best, Spencer
+
+Hi Agnieszka, 
+
+I have known about Sigmoidal for a while and I find it amazing that they build AI 
+systems for companies in a variety of industries and bring excellent results. This 
+must be a sign that you must be a great People Operations Manager and can put together
+an amazing team with quality talent. I have experience with Data Science, Deep Learning
+and NLP in particular and was wondering if I could leverage my skills in a way that can
+bring value to Sigmoidal.I'd also be interested to hear about your transition from
+your background in medicine to this line of work. Would it be possible to chat about 
+Sigmoidal? I'd be available after 1PM (GMT+1).
+
+Best, Spencer
+
+ 
+Hi Samarth, 
+
+I see you're a Data Scientist at Ranker and have extensive experiance in the Data and
+Analytics space. I also see you worked on the color detection algorithm at Walmart and 
+I'd be very interested to hear about your experiance at Walmart Labs. I recently 
+graduated from Flatiron's Data Science Bootcamp and  noticed that Ranker has a job 
+opening for a Junior Data Scientist to help Ranker expand it's initiatives, which is 
+something I'd be interested in. Would it be possible to have a chat about these topics? 
+A time in the afternoon would be best.
+
+Best regards, Spencer
+
+Hi Janet, 
+
+I see that your agency has a unique and effective approach to Digital Marketing. I'm 
+interested to hear about how you discovered the power of animated explainer videos, and
+started an agency centered around it. With experiance in Data Science, I'm also wondering
+if my skills in Data Science could help your agency in any way. Would it be possible to 
+chat about your agency? Somewhere between 4 to 7 pm on a weekday would be prefferable.
+
+Best Spencer
+
+Alumni outreach...
+
+Hi [name],
+I see we both studied Data Science at Flatiron and have 
+[try to find something in common]. I also see that you're in the [industry] which I'm thinking 
+about getting into, Congrats on the new job by the way, I'm 
+sure the transition was not easy! Could we have a 15-20 minute chat and have you talk about
+your Data Science journey and the industry you work in? Would Thursday 5pm cst work for
+you?If not any other options you prefer? Thanks a lot in advance!
+
+Best, Spencer
+
+companies list...
+1. Sigmoidal *
+2. Ranker
+3. Source Medium *
+4. MediaAlpha
+5. Simple Practice
+6. BDM
+7. GOAT
+8. Golden Hippo
+
+Competition...
+1. Sigmoidal
+2. Source Medium
+3. https://powerful-tool.com/audience-finder?fbclid=IwAR0WR4UFgMtA8Tb3rv2qI3oj29JpK2dQIvwXdcXYUmff21KAo-IAhUlMOow
+4. Polytopal
