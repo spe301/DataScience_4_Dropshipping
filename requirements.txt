@@ -1,0 +1,9 @@
+pip install plotly==4.4.1
+pip install Potosnail==0.2.4
+pip install pytrends==4.7.3
+pip install tweepy==3.10.0
+pip install textblob==0.15.3
+pip install statsmodels==0.12.0
+pip install pandas==1.1.3
+pip install numpy==1.19.2
+pip install scipy==1.5.2

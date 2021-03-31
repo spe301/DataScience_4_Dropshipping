@@ -1,5 +1,0 @@
-pip install plotly==4.4.1
-pip install Potosnail==0.2.4
-pip install pytrends
-pip install tweepy
-pip install textblob
