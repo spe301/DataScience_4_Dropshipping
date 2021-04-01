@@ -211,7 +211,11 @@ def home():
 @app.route('/predict', methods=['POST'])
 def predict():
     user_input = request.form['Text']
-    return render_template('index.html', PredictSearches(user_input))
+    if ',' in user_input:
+        predict_on = user_input.split(',')
+    else:
+        predict_on = user_input
+    return render_template('index.html', PredictSearches(predict_on))
 
 if __name__ == "__main__":
     app.run(debug=True, threaded=True)

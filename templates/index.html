@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html >
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+  <title>Google Search Analysis</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'> 
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50.00%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body style="background-color:powderblue;">
+
+ <div class="login">
+        <h1 style="color: green;">GST Insights</h1>
+        <div style="margin-left:10%; margin-right:10%;",  outline-color: powderblue;>
+        <img width="150" height="150", src="https://raw.githubusercontent.com/spe301/Wikipedia-Capstone/main/Images/logoo.png">
+        </div>
+	<h2 style="color: blue;">Predict Google Search Trends and analyze their Tweets! </h2>
+	<h2 style="color: blue;">type in any search term or terms</h2>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+    	<input type="text" name="Text" placeholder="Text" required="required" />
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Get Insights</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+<div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/spe301/Wikipedia-Capstone/main/Images/real.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/spe301/Wikipedia-Capstone/main/Images/AI.png" alt="Forest" style="width:100%">
+  </div>
+
+</body>
+</html>
+
