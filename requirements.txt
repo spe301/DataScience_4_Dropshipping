@@ -1,5 +1,4 @@
 plotly==4.4.1
-Potosnail==0.2.4
 pytrends==4.7.3
 tweepy==3.10.0
 textblob==0.15.3
