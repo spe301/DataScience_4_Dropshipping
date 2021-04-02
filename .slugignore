@@ -1,0 +1,4 @@
+*.ipynb
+*.md
+/.ipynb_checkpoints
+/Images

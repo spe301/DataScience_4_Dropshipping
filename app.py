@@ -215,7 +215,7 @@ def predict():
         predict_on = user_input.split(',')
     else:
         predict_on = user_input
-    return render_template('index.html', PredictSearches(predict_on))
+    return render_template('index.html', context=PredictSearches(predict_on))
 
 if __name__ == "__main__":
     app.run(debug=True, threaded=True)

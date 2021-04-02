@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-  <title>Google Search Analysis</title>
+  <title>GST Insights</title>
   <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
@@ -34,12 +34,9 @@ div {text-align: center;}
 <body style="background-color:powderblue;">
 
  <div class="login">
-        <h1 style="color: green;">GST Insights</h1>
         <div style="margin-left:10%; margin-right:10%;",  outline-color: powderblue;>
-        <img width="150" height="150", src="https://raw.githubusercontent.com/spe301/Wikipedia-Capstone/main/Images/logoo.png">
+        <img width="300" height="200", src="https://raw.githubusercontent.com/spe301/DataScience_4_Dropshipping/main/Images/Screenshot%20(31).png">
         </div>
-	<h2 style="color: blue;">Predict Google Search Trends and analyze their Tweets! </h2>
-	<h2 style="color: blue;">type in any search term or terms</h2>
 
      <!-- Main Input For Receiving Query to our ML -->
     <form action="{{ url_for('predict')}}"method="post">
@@ -51,14 +48,9 @@ div {text-align: center;}
    <br>
    <br>
    {{ prediction_text }}
+   {{ prediction_text }}
+   {{ prediction_text }}
 
-<div class="row">
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/spe301/Wikipedia-Capstone/main/Images/real.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/spe301/Wikipedia-Capstone/main/Images/AI.png" alt="Forest" style="width:100%">
-  </div>
 
 </body>
 </html>
