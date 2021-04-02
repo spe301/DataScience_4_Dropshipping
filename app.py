@@ -6,11 +6,7 @@ from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 import numpy as np
 from textblob import TextBlob
 import pandas as pd
-from potosnail import Stats
-import matplotlib.pyplot as plt
-import seaborn as sns
 import plotly.graph_objects as go
-import numpy as np
 import plotly.express as px
 from scipy.signal import find_peaks
 import datetime
